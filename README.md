@@ -12,5 +12,9 @@ In addition to subtitle downloading, the program utilizes OpenAI's gpt-3.5-turbo
 
 The user interface is designed for ease of use, with buttons to load files, download subtitles, create instructions, and clear the displayed text. The progress of each operation is shown in a dedicated progress display area with a black background and white text, ensuring visibility and clarity. This progress display replaces the need for popups, offering a seamless user experience by keeping users informed about the status of their tasks. Overall, this program combines powerful backend functionalities with a straightforward GUI, making it an efficient tool for transforming YouTube video content into detailed instructional text.
 
+#
+
+> Alex: *"YouTube has a massive collection of how-to videos that could be converted to compile a database."*
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
